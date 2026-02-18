@@ -1,7 +1,8 @@
 a = int(input("Enter your number: "))
 
-if(a % == 0):
+if(a % 2 == 0):
     print("number is even")
+
 
 if(a >= 18):
     print("Tu 18 sala sa bada hai")
