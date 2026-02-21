@@ -13,4 +13,5 @@ for i in t:
 s = 'rahul'
 
 for i in s:
-    print(i/n)
+    print(i)
+    
