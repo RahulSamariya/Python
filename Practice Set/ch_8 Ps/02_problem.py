@@ -5,5 +5,6 @@ def celsius_to_fahrenheit(fahrenheit):
     return celsius
 
 fahrenheit = float(input("Enter the fahrenheit: "))
+celsius = celsius_to_fahrenheit(fahrenheit)
 
 print(celsius_to_fahrenheit(fahrenheit))
